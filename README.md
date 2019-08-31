@@ -7,14 +7,13 @@ O programa se encontra na pasta "src" com o nome de "Algoritmo Tecelao.exe"
 
 Ao executar o algoritmo aparecerá uma tela pedindo as seguintes informações:
 
+Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	
-	Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	Tente não usar imagens muitos grandes (1000x1000 é um ótimo tamanho)
 	As imagens devem ser preferencialmente quadradas
 	Os formatos suportados são .bmp e .png
 
 Quantidade de pregos:
-
 
 	Quanto mais pregos melhor, mais combinações o algoritmo pode fazer e obter um melhor resultado.
 
