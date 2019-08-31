@@ -29,7 +29,8 @@ Taxa de redução do pixel:
 	128 significa que os pixels da linha escolhida perderão 128 unidades no RGB, ou seja, ficarão cinza em vez de branco.
 	0 significa que os pixels da linha escolhida não perderão nada, ou seja, o algoritmo vai ficar parado eternamente.
 
-	Aqui nós temos outro problema...
+	Aqui nós temos outro problema
+...
 		Uma taxa de 25 gera uma imagem em tons de cinza e com um bom contraste, porém necessita de mais linhas para ter definição.
 		Além disso, nós não temos garantia que o quadro final ficará da mesma forma que imagem calculada. Pois tudo vai depender
 		da proporção entre o tamanho do aro e a espessura da linha!
