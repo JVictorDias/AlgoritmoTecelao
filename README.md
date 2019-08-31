@@ -3,7 +3,7 @@ Algoritmo que combina linhas para criar uma imagem
 
 Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
 
-O programa se encontra na pasta "src" com o nome de "Algoritmo Tecelao.exe"
+O programa se encontra dentro do .zip na pasta "src" com o nome de "Algoritmo Tecelao.exe"
 
 Ao executar o algoritmo aparecerá uma tela pedindo as seguintes informações:
 
