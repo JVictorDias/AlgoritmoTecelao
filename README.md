@@ -7,17 +7,19 @@ O programa se encontra na pasta "src" com o nome de "Algoritmo Tecelao.exe"
 
 Ao executar o algoritmo aparecerá uma tela pedindo as seguintes informações:
 ...
-Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	
+	Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	Tente não usar imagens muitos grandes (1000x1000 é um ótimo tamanho)
 	As imagens devem ser preferencialmente quadradas
 	Os formatos suportados são .bmp e .png
-	...
 
 Quantidade de pregos:
+
+
 	Quanto mais pregos melhor, mais combinações o algoritmo pode fazer e obter um melhor resultado.
-	
+
 Quantidade de linhas:
+
 	Quantas linhas você pretende traçar entre os pregos
 	Aqui nós temos um dilema... 
 		Poucas linhas = menos definição nas formas e mais contraste 
@@ -25,6 +27,7 @@ Quantidade de linhas:
 		Faça testes!! :)
 
 Taxa de redução do pixel:
+	
 	Essa informação se refere a quantidade da cor preta que será tirado dos pixels da linha escolhida pelo algoritmo
 	Essa taxa pode variar entre 0 até 255
 	255 significa que os pixels da linha escolhida perderão 255 unidades no RGB, ou seja, ficarão completamente brancos.
@@ -33,6 +36,7 @@ Taxa de redução do pixel:
 
 	Aqui nós temos outro problema
 ...
+		
 		Uma taxa de 25 gera uma imagem em tons de cinza e com um bom contraste, porém necessita de mais linhas para ter definição.
 		Além disso, nós não temos garantia que o quadro final ficará da mesma forma que imagem calculada. Pois tudo vai depender
 		da proporção entre o tamanho do aro e a espessura da linha!
