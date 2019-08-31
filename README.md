@@ -6,7 +6,7 @@ Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
 O programa se encontra na pasta "src" com o nome de "Algoritmo Tecelao.exe"
 
 Ao executar o algoritmo aparecerá uma tela pedindo as seguintes informações:
-...
+
 	
 	Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	Tente não usar imagens muitos grandes (1000x1000 é um ótimo tamanho)
@@ -35,12 +35,11 @@ Taxa de redução do pixel:
 	0 significa que os pixels da linha escolhida não perderão nada, ou seja, o algoritmo vai ficar parado eternamente.
 
 	Aqui nós temos outro problema
-...
-		
-		Uma taxa de 25 gera uma imagem em tons de cinza e com um bom contraste, porém necessita de mais linhas para ter definição.
-		Além disso, nós não temos garantia que o quadro final ficará da mesma forma que imagem calculada. Pois tudo vai depender
-		da proporção entre o tamanho do aro e a espessura da linha!
-		Escolher esse valor de forma alinhada com a realidade é a chave para ter um quadro bonito.
+
+	Uma taxa de 25 gera uma imagem em tons de cinza e com um bom contraste, porém necessita de mais linhas para ter definição.
+	Além disso, nós não temos garantia que o quadro final ficará da mesma forma que imagem calculada. Pois tudo vai depender
+	da proporção entre o tamanho do aro e a espessura da linha!
+	Escolher esse valor de forma alinhada com a realidade é a chave para ter um quadro bonito.
 
 	Tente rodar o algoritmo pelo menos duas vezes, uma vez com essa taxa em 25 e outra com a taxa em 255... Você verá a diferença e entenderá o problema.
 
