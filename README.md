@@ -19,7 +19,6 @@ Quantidade de pregos:
 
 Quantidade de linhas:
 
-	Quantas linhas você pretende traçar entre os pregos
 	Aqui nós temos um dilema... 
 		Poucas linhas = menos definição nas formas e mais contraste 
 		Muitas linhas = mais definição nas formas e menos contraste (a imagem fica escura)
