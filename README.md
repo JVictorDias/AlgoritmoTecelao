@@ -3,9 +3,9 @@ Algoritmo que combina linhas para criar uma imagem
 
 Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
 
-O programa se encontra dentro do .zip na pasta "src" com o nome de "Algoritmo Tecelao.exe"
+O programa se encontra na pasta "src" dentro do .zip e possui o nome "Algoritmo Tecelao.exe"
 
-Ao executar o algoritmo aparecerá uma tela pedindo as seguintes informações:
+Ao executar o algoritmo, aparecerá uma tela pedindo as seguintes informações:
 
 Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
 	
@@ -26,10 +26,10 @@ Quantidade de linhas:
 
 Taxa de redução do pixel:
 	
-	Essa informação se refere a quantidade da cor preta que será tirado dos pixels da linha escolhida pelo algoritmo
+	Essa informação é quantidade de cor preta que será tirada dos pixels da linha escolhida pelo algoritmo
 	Essa taxa pode variar entre 0 até 255
 	255 significa que os pixels da linha escolhida perderão 255 unidades no RGB, ou seja, ficarão completamente brancos.
-	128 significa que os pixels da linha escolhida perderão 128 unidades no RGB, ou seja, ficarão cinza em vez de branco.
+	128 significa que os pixels da linha escolhida perderão 128 unidades no RGB, ou seja, ficarão cinza.
 	0 significa que os pixels da linha escolhida não perderão nada, ou seja, o algoritmo vai ficar parado eternamente.
 
 	Aqui nós temos outro problema
