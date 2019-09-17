@@ -1,4 +1,4 @@
-# Algoritmo Tecelao
+# Algoritmo Tecelão
 Algoritmo que combina linhas retas para criar uma imagem!
 
 Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
