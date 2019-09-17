@@ -1,7 +1,9 @@
-# AlgoritmoTecelao
-Algoritmo que combina linhas para criar uma imagem
+# Algoritmo Tecelao
+Algoritmo que combina linhas retas para criar uma imagem!
 
 Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
+
+Versão do nosso amigo Julio (Python) - https://github.com/julio-bandeira/pyhton_weaver
 
 O programa se encontra na pasta "src" dentro do .zip e possui o nome "Algoritmo Tecelao.exe"
 
