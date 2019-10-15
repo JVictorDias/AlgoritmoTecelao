@@ -3,7 +3,7 @@ Algoritmo que combina linhas retas para criar uma imagem!
 
 ![Preview-Screens](https://github.com/JVictorDias/AlgoritmoTecelao/blob/master/preview.gif)
 
-**Vídeo demonstrativo(atch?v=YZtx4jNNbx8).**
+**[Vídeo demonstrativo](https://www.youtube.com/watch?v=YZtx4jNNbx8).**
 
 Versão do nosso amigo Julio (Python) - https://github.com/julio-bandeira/pyhton_weaver
 
