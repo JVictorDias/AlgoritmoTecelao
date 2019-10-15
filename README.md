@@ -1,12 +1,13 @@
 # Algoritmo Tecelão
 Algoritmo que combina linhas retas para criar uma imagem!
 
-Vídeo demonstrativo: https://www.youtube.com/watch?v=YZtx4jNNbx8
+![Preview-Screens](https://github.com/JVictorDias/Dinossauro-Google/blob/master/preview.gif)
+
+**Vídeo demonstrativo(atch?v=YZtx4jNNbx8).**
 
 Versão do nosso amigo Julio (Python) - https://github.com/julio-bandeira/pyhton_weaver
 
 O programa se encontra na pasta "src" dentro do .zip e possui o nome "Algoritmo Tecelao.exe"
-
 Ao executar o algoritmo, aparecerá uma tela pedindo as seguintes informações:
 
 Nome do arquivo da imagem (ou o diretório completo, caso a imagem não esteja na mesma pasta que o executável):	
