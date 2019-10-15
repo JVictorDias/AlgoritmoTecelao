@@ -1,7 +1,7 @@
 # Algoritmo Tecelão
 Algoritmo que combina linhas retas para criar uma imagem!
 
-![Preview-Screens](https://github.com/JVictorDias/Dinossauro-Google/blob/master/preview.gif)
+![Preview-Screens](https://github.com/JVictorDias/AlgoritmoTecelao/blob/master/preview.gif)
 
 **Vídeo demonstrativo(atch?v=YZtx4jNNbx8).**
 
